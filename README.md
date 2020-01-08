@@ -1,4 +1,4 @@
-# secbookmarks
+# IT Security Bookmarks
 
-##Mitre Links
+## Mitre Links
 [Mitre Groups] (https://attack.mitre.org/groups/)
