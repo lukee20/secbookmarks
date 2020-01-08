@@ -1,4 +1,4 @@
 # IT Security Bookmarks
 
 ## Mitre Links
-[Mitre Groups](https://attack.mitre.org/groups/)
+[Threat Groups Mapping](https://attack.mitre.org/groups/)
