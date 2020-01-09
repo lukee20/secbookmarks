@@ -1,10 +1,10 @@
 # IT Security Bookmarks
 
 ## IP Checking
-[IPVOID](https://www.ipvoid.com/)
+- [IPVOID](https://www.ipvoid.com/)
 
 ## Virus / Malware Analysis
-[Malc0de - Analyses IP, ASN, AS-Name, Country ](http://malc0de.com/database/index.php)
+- [Malc0de - Analyses IP, ASN, AS-Name, Country ](http://malc0de.com/database/index.php)
 
 ## Web Analysis
 - [Sucri Site Check](https://sitecheck.sucuri.net/)
