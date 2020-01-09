@@ -27,6 +27,6 @@
 ## Sandboxes
 [ViCheck can check file before downloading also](https://www.vicheck.ca/)
 [malwr]https://malwr.com
-[Hybrid Anlysis - can string & Yara search] https://www.hybrid-analysis.com/
-http://any.run
+[Hybrid Anlysis - can string & Yara search](https://www.hybrid-analysis.com/)
+[AnyRun](http://any.run)
 
