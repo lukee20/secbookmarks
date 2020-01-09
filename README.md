@@ -25,7 +25,7 @@
 [Project Honeypot](https://www.projecthoneypot.org/search_ip.php)
 
 ## Sandboxes
-[ViCheck - can check file before downloading also](https://www.vicheck.ca/)
+[ViCheck can check file before downloading also](https://www.vicheck.ca/)
 [malwr]https://malwr.com
 [Hybrid Anlysis - can string & Yara search] https://www.hybrid-analysis.com/
 http://any.run
