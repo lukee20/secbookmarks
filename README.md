@@ -7,9 +7,9 @@
 [Malc0de - Analyses IP, ASN, AS-Name, Country ](http://malc0de.com/database/index.php)
 
 ## Web Analysis
-[Sucri Site Check](https://sitecheck.sucuri.net/)
-[URL Void](https://www.urlvoid.com/)
-[Builtwith find out what tech used](https://builtwith.com/)
+- [Sucri Site Check](https://sitecheck.sucuri.net/)
+- [URL Void](https://www.urlvoid.com/)
+- [Builtwith find out what tech used](https://builtwith.com/)
 [User Agent String Analysis](http://www.useragentstring.com/)
 [DNS information](https://www.dnswatch.info/)
 [Anti Abuse checker](http://www.anti-abuse.org/)
