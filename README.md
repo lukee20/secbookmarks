@@ -31,5 +31,12 @@
 - [Hybrid Anlysis - can string & Yara search](https://www.hybrid-analysis.com/)
 - [AnyRun](http://any.run)
 
+## PCAP Analysis
+- https://packettotal.com
+
+## Random Tools
+- https://regex101.com/
+
+
 ## Mitre Links
 [Threat Groups Mapping](https://attack.mitre.org/groups/)
