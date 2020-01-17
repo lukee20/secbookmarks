@@ -38,6 +38,9 @@
 - https://regex101.com/
 - [Check MAC address prefixes](https://www.wireshark.org/tools/oui-lookup.html)
 
+## Reference
+- [Lateral Movement - Mitre](https://attack.mitre.org/tactics/TA0008/)
+
 
 ## Mitre Links
 [Threat Groups Mapping](https://attack.mitre.org/groups/)
