@@ -24,6 +24,12 @@
 - [spamhaus](https://www.spamhaus.org/)
 - [phishtank](https://www.phishtank.com/)
 - [Project Honeypot](https://www.projecthoneypot.org/search_ip.php)
+- [MX Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
+- [Microsoft's Header](https://mha.azurewebsites.net/)
+- [myip header](https://www.whatismyip.com/email-header-analyzer/)
+- [google header](https://toolbox.googleapps.com/apps/messageheader/)
+- [IP tracker header](https://www.iptrackeronline.com/email-header-analysis.php)
+- [mail header org](https://mailheader.org/)
 
 ## Sandboxes
 - [ViCheck can check file before downloading also](https://www.vicheck.ca/)
