@@ -53,6 +53,7 @@
 ## Reference
 - [C2 Matrix](https://www.thec2matrix.com/matrix)
 - [Lateral Movement - Mitre](https://attack.mitre.org/tactics/TA0008/)
+- [Ransomware - ID database](https://id-ransomware.malwarehunterteam.com/)
 
 ## Honeypots
 - [Noisy - Create Web Traffic](https://github.com/madereddy/noisy)
