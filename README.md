@@ -43,7 +43,7 @@
 - [AnyRun](http://any.run)
 
 ## Threat Feeds
-= [Abuse.ch](https://abuse.ch/)
+- [Abuse.ch](https://abuse.ch/)
 
 ## PCAP Analysis
 - https://packettotal.com
