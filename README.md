@@ -69,3 +69,7 @@
 
 ## Misc Tools
 - [Online MD Editor](https://stackedit.io/app#)
+
+## OSINT
+- [OSINT Framework](https://osintframework.com/)
+
